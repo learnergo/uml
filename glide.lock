@@ -1,0 +1,6 @@
+hash: 49289bc3960b0371b9717701a9d5204c56f9eb44e2983c2155f01128bd9e1174
+updated: 2018-12-13T13:23:33.02069+08:00
+imports:
+- name: git.oschina.net/jscode/go-package-plantuml
+  version: cf5530c2d1c13f5a6a9d1a64a07410891eaa965c
+testImports: []

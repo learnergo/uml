@@ -1,0 +1,3 @@
+package: github.com/learnergo/uml
+import:
+- package: git.oschina.net/jscode/go-package-plantuml
